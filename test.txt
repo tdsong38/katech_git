@@ -1,3 +1,8 @@
 1
 2 hello
 3 printf(hello)
+
+
+5. printf (~~~)
+// 6. printf (~~~)
+
